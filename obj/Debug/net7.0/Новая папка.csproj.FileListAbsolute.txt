@@ -1,0 +1,14 @@
+C:\Users\user22\Desktop\c#\Новая папка\bin\Debug\net7.0\Новая папка.exe
+C:\Users\user22\Desktop\c#\Новая папка\bin\Debug\net7.0\Новая папка.deps.json
+C:\Users\user22\Desktop\c#\Новая папка\bin\Debug\net7.0\Новая папка.runtimeconfig.json
+C:\Users\user22\Desktop\c#\Новая папка\bin\Debug\net7.0\Новая папка.dll
+C:\Users\user22\Desktop\c#\Новая папка\bin\Debug\net7.0\Новая папка.pdb
+C:\Users\user22\Desktop\c#\Новая папка\obj\Debug\net7.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user22\Desktop\c#\Новая папка\obj\Debug\net7.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\user22\Desktop\c#\Новая папка\obj\Debug\net7.0\Новая папка.AssemblyInfo.cs
+C:\Users\user22\Desktop\c#\Новая папка\obj\Debug\net7.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\user22\Desktop\c#\Новая папка\obj\Debug\net7.0\Новая папка.dll
+C:\Users\user22\Desktop\c#\Новая папка\obj\Debug\net7.0\refint\Новая папка.dll
+C:\Users\user22\Desktop\c#\Новая папка\obj\Debug\net7.0\Новая папка.pdb
+C:\Users\user22\Desktop\c#\Новая папка\obj\Debug\net7.0\Новая папка.genruntimeconfig.cache
+C:\Users\user22\Desktop\c#\Новая папка\obj\Debug\net7.0\ref\Новая папка.dll
